@@ -1,6 +1,6 @@
 -  Hi, I’m Oliver Beckon👋
--  Canadian HighSchool Student
 -  Lead dev of Rookie FTC & FRC robotics team https://ftcscout.org/teams/26044
+-  Most of the stuff on here is small side projects but enjoy anyways :)
 - 📫 How to reach me: oliverbeckon@gmail.com 
 
 
